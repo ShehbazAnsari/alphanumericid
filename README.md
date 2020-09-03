@@ -1,6 +1,6 @@
 # What is this?
 
-Get unique alphanumericid every time for your projects
+Generate unique alphanumericid for your projects.
 
 # Installation 
 

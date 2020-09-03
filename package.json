@@ -1,0 +1,20 @@
+{
+  "name": "alphanumericidy",
+  "version": "1.0.0",
+  "description": "Get unique alphanumericid every time for your projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShehbazAnsari/alphanumericid.git"
+  },
+  "keywords": [],
+  "author": "Shehbaz Ansari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShehbazAnsari/alphanumericid/issues"
+  },
+  "homepage": "https://github.com/ShehbazAnsari/alphanumericid#readme"
+}

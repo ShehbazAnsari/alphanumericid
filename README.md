@@ -4,12 +4,12 @@ Get unique alphanumericid every time for your projects
 
 # Installation 
 
-`npm i alphanumericid --save`
+`npm i alphanumericidy --save`
 
 Then...
 
 ```
-import { alphanumericid } from 'alphanumericid';
+import { alphanumericid } from 'alphanumericidy';
 
 //For shortid
 

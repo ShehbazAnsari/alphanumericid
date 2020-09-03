@@ -1,6 +1,6 @@
 {
   "name": "alphanumericidy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get unique alphanumericid every time for your projects",
   "main": "index.js",
   "scripts": {

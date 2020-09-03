@@ -17,6 +17,7 @@ alphanumericid({
   shortid:true
 });
 
+
 //For longid
 
 alphanumericid({
@@ -34,5 +35,11 @@ alphanumericid(7);
 
 * *shortid* - _boolean_ (Defaults to false)
 * *longid* - _boolean_ (Defaults to false)
+
+## Length
+
+* *shortid* - _5_ 
+* *longid* - _10_ 
+
 
 

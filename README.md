@@ -9,6 +9,8 @@ Generate unique alphanumericid for your projects.
 Then...
 
 ```
+const {alphanumericid} = require('alphanumericidy')
+or
 import { alphanumericid } from 'alphanumericidy';
 
 //For shortid

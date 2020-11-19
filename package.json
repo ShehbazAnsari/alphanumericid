@@ -1,6 +1,6 @@
 {
   "name": "alphanumericidy",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Generate unique alphanumericid for your projects",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "keywords": [],
   "author": "Shehbaz Ansari",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ShehbazAnsari/alphanumericid/issues"
   },

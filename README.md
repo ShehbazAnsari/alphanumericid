@@ -9,8 +9,10 @@ Generate unique alphanumericid for your projects.
 Then...
 
 ```
-const {alphanumericid} = require('alphanumericidy')
-or
+const { alphanumericid } = require('alphanumericidy')
+
+OR
+
 import { alphanumericid } from 'alphanumericidy';
 
 //For shortid
@@ -26,7 +28,7 @@ alphanumericid({
   longid:true
 });
 
-//Or You can Just pass a number
+//Or You can Just pass any number
 
 alphanumericid(7);
 
